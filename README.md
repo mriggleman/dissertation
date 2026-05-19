@@ -15,5 +15,5 @@ Readme
 #   This is how the scorer knows which sets to use when scoring. 
 #
 # TRANSCRIPT FORMAT: CHAT-style .txt files with *SP01: / *SP02: speaker lines.
-#   The scorer automatically extracts only the child's turns (SP02).
-#   Comprehension questions and answers within the same file are also scored.
+#   The scorer automatically extracts only the child's turns (SP02). Ensure the target speaker is labelled SP02 in every transcript.
+#   Answers to comprehension questions at the end are also scored.
